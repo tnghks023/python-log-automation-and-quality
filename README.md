@@ -24,8 +24,8 @@ GeoLite2 ASN DB를 이용해 IP별 조직 정보를 매핑하고, 국내 ISP 트
 - 반복적 수작업 보고서 자동화
 
 ## 🗂️ 프로젝트 구조
-access_log_parser.py
-weekly_aggregator.py
-abuseipdb_joiner.py
-sample_logs/access_sample.log
-README.md
+- access_log_parser.py
+- weekly_aggregator.py
+- abuseipdb_joiner.py
+- sample_logs/access_sample.log
+- README.md
